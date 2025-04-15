@@ -22,3 +22,16 @@
 3. XGBoost
 4. SVM
 5. kNN / Naive Bayes (optional)
+6. 위의 모든 방법을 종합하여 결정하는 voting_ensemble
+
+### 모델별 Public Score 정리
+
+| 모델                | Public Score |
+| ------------------- | ------------ |
+| Logistic Regression | 0.76555      |
+| Random Forest       | 0.77033      |
+| XGBoost             | 0.76555      |
+| SVM                 | 0.77990      |
+| k-NN                | 0.76555      |
+| Naive Bayes         | 0.74401      |
+| Voting Ensemble     | 0.77990      |
